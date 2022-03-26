@@ -1,0 +1,27 @@
+.titulo {
+    color: #000;
+    font-family: Helvetica;
+  }
+.subtitulo {
+    color: #000;
+    font-family: Helvetica;
+  }
+  
+.texto {
+    font-family: Helvetica;
+    font-size: 20px;
+  }
+.resultado {
+  width:280px;
+  border: none;
+  text-overflow: ellipsis;
+  border-bottom: 2px solid rgb(50, 134, 0); 
+  outline: none;
+  color: red;
+  }
+
+.enviar {
+  font-family: Helvetica;
+  font-size: 18px;
+
+}
